@@ -1,0 +1,4 @@
+deniz satar:35,95,45
+yusuf özdere:74,84,34
+ismail özdere:98,89,95
+ahmet can:65,85,45
